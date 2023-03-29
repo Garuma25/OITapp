@@ -1,2 +1,2 @@
 # OITapp
-This is my converting to roman numbers app
+This is my "Convert RomanNum to Decimal"
