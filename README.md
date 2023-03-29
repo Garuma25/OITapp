@@ -12,3 +12,6 @@ The decimal equivalent of the Roman numeral is output using the cout statement.
 The program terminates with a return value of 0.
 
 I am still having trouble meeting the requirements for step 4, but the program still outputs an error message when the Roman numeral is invalid
+
+Time complexity is O(n)
+It took me around 2:44 hours
